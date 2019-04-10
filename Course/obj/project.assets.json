@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnn\\source\\repos\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "c:\\Users\\johnn\\source\\repos\\Course\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\johnn\\source\\repos\\Course\\Course\\Course.csproj",
+      "projectPath": "c:\\Users\\johnn\\source\\repos\\Course\\Course\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnn\\source\\repos\\Course\\Course\\obj\\",
+      "outputPath": "c:\\Users\\johnn\\source\\repos\\Course\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

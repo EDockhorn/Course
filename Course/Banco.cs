@@ -7,7 +7,7 @@ namespace Course
 {
     public class Banco
     {
-        private string _conta;
+        public string Conta { get; private set; }
         public string Titular { get; set; }
         public double Saldo { get; private set; }
 
@@ -23,15 +23,7 @@ namespace Course
             Conta  = conta;
             Titular = titular;
         }
-    
-        public string Conta
-        {
-            get { return _conta; }
-            set { _conta = value; }
-
-        }
-
-
+   
         public double Deposito(double valor)
         {
             return Saldo += valor;
