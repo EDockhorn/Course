@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Globalization;
+﻿using System.Globalization;
 
 namespace Course
 {
@@ -13,17 +10,17 @@ namespace Course
 
         private static double _taxa = 5.00;
 
-        public Banco (string conta, string titular, double saldo) : this (conta, titular)
+        public Banco(string conta, string titular, double saldo) : this(conta, titular)
         {
             Saldo = saldo;
         }
 
         public Banco(string conta, string titular)
         {
-            Conta  = conta;
+            Conta = conta;
             Titular = titular;
         }
-   
+
         public double Deposito(double valor)
         {
             return Saldo += valor;
@@ -38,12 +35,8 @@ namespace Course
         {
             return "Conta " + Conta
                 + ", Titular: " + Titular
-                + ", Saldo: $ " + Saldo.ToString("F2",CultureInfo.InvariantCulture);
-            
+                + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+
         }
-
-
-
-
     }
 }

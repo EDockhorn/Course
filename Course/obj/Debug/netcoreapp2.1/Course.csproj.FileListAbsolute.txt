@@ -20,3 +20,14 @@ C:\Users\johnn\source\repos\Course\Course\Course\obj\Debug\netcoreapp2.1\Course.
 C:\Users\johnn\source\repos\Course\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
 C:\Users\johnn\source\repos\Course\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
 C:\Users\johnn\source\repos\Course\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
